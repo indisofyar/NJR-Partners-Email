@@ -1,0 +1,41 @@
+{
+  "title_content": "A written title",
+  "date": "08 Jan 2025",
+  "body_content": "<p>html content</p>",
+  "link": "https://www.google.com/",
+  "link_a": "https://www.google.com/",
+  "link_r": "https://www.google.com/",
+  "above_info": [
+    {
+      "title": "December returns",
+      "content": [
+        {
+          "text": "1.6%",
+          "large": true
+        }
+      ]
+    },
+    {
+      "title": "Drawdowns (from peak)",
+      "content": [
+        {
+          "text": "-1.6%",
+          "large": true
+        }
+      ]
+    },
+    {
+      "title": "Positive contributors",
+      "content": [
+        {
+          "text": "Alphabet (+1.4%)",
+          "large": false
+        },
+        {
+          "text": "Amazon (+0.6%)",
+          "large": false
+        }
+      ]
+    }
+  ]
+}
